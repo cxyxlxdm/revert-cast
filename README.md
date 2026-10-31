@@ -14,7 +14,7 @@
 | 文件 | 平台 | 大小 | SHA-256 |
 |---|---|---|---|
 | `reverb.apk` | Android | 65,061,444 B | `8f09048e07ccc8d3721c5bf525a2c7c65eba369082093cc9ae2bd1568c861083` |
-| `Reverb.dmg` | macOS（universal：Intel 与 Apple 芯片同一份） | 4,989,893 B | `d7c25c405ff3ec1e659a58b0ef6ee244ac0653215a9696ed20814b5f646b643c` |
+| `Reverb.dmg` | macOS（universal：Intel 与 Apple 芯片同一份） | 5,079,986 B | `f4a2052ed322ed49add604c588604a22233432bbe67b6c6cb742de6266528cc4` |
 
 下载后可自行核对：`shasum -a 256 <文件>`，应与上表逐字相同。
 
